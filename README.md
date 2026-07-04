@@ -10,9 +10,18 @@ Project Portfolio</h1>
 <img width="640" height="360" alt="Yplus" src="https://github.com/user-attachments/assets/aece3ccf-b76e-4f52-8840-ac3e5bca1144" />
 </p>
 -The total pressure plot reveals an interesting phenomenon of the pressure wave propogaiton due to the seperation<br>
--The Y+ plot on the surface of the airfoil reveals the y+ at leading edge at around 1.6 and at the seperation point significantly lower than 1<br>
+-The Y+ plot on the surface of the airfoil reveals the Y+ at leading edge at around 1.6 and at the seperation point significantly lower than 1<br>
+
 https://github.com/user-attachments/assets/a69cc938-941a-4139-8655-197fe18f086c
+
 -Total Pressure Animation
+
+https://github.com/user-attachments/assets/beaab731-9df7-49f2-a51a-b05e3e7c67c9
+
+-Turbulence Intensity Animation
+
+
+
 
 
 
