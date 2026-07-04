@@ -5,10 +5,19 @@ Project Portfolio</h1>
 -Used the IDDES Turbulence model with AUSM flux scheme and the density based implicit solver in ANSYS Fluent <br>
 -Post processed using ANSYS FLUENT, chord of the airfoil needed to be reduced to 1mm to be able to acheive a close to 1 y+ and CFL number (used 10)<br>
 -This ideally has to be done in 3D as Turbuilence is 3D but the copmutational cost would be exorbidant in that case<br>
-<p align='center'>
-<img width="640" height="360" alt="Total Pressure buffet" src="https://github.com/user-attachments/assets/a32f49c3-26ee-48ef-b97d-926c18e07875" />
-<img width="640" height="360" alt="Yplus" src="https://github.com/user-attachments/assets/aece3ccf-b76e-4f52-8840-ac3e5bca1144" />
-</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/a32f49c3-26ee-48ef-b97d-926c18e07875" alt="First Image" style="width:100%;">
+      <p><b>Total Pressure Contour</b></p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/aece3ccf-b76e-4f52-8840-ac3e5bca1144" alt="Second Image" style="width:100%;">
+      <p><b>Y+ Contour</b></p>
+    </td>
+  </tr>
+</table>
 -The total pressure plot reveals an interesting phenomenon of the pressure wave propogaiton due to the seperation<br>
 -The Y+ plot on the surface of the airfoil reveals the Y+ at leading edge at around 1.6 and at the seperation point significantly lower than 1<br>
 <table width="100%">
