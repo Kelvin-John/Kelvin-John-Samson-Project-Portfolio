@@ -12,3 +12,8 @@ Project Portfolio</h1>
 
 - https://github.com/Kelvin-John/Kelvin-John.github.io/blob/main/2.%20Backward%20step%20LES.md
 
+<h2>3.Aerodynamic analysis of wing and store separation interaction using CFD.m</h2>
+
+- Minor Project, Conference Paper in Progress, overset dynamic mesh linear drop UDF to study aerodynamic characteristics on an airfoil 2D.
+
+- 
