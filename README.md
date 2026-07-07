@@ -16,4 +16,4 @@ Project Portfolio</h1>
 
 - Minor Project, Conference Paper in Progress, overset dynamic mesh linear drop UDF to study aerodynamic characteristics on an airfoil 2D.
 
-- 
+- https://github.com/Kelvin-John/Kelvin-John.github.io/blob/main/3.%20Aerodynamic%20analysis%20of%20wing%20and%20store%20separation%20interaction%20using%20CFD.md
