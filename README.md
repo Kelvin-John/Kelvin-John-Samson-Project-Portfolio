@@ -4,6 +4,6 @@ Project Portfolio</h1>
 - 2D IDDES Transonic stall of NACA 64A010 using ANSYS FLUENT. <br>
 - https://github.com/Kelvin-John/Kelvin-John.github.io/blob/main/1.%20Transonic%20Stall%20CFD.md<br>
 <h2>2.LES Backward Step</h2>
-- 3D backward Step LES CFD
+- 3D backward Step LES CFD.<br>
 - https://github.com/Kelvin-John/Kelvin-John.github.io/blob/main/2.%20Backward%20step%20LES.md
 
