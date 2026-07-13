@@ -23,7 +23,7 @@ Project Portfolio</h1>
 - 2D, 2 element FSAE active aero modelling using an overset dynamic mesh
 - https://github.com/Kelvin-John/Kelvin-John.github.io/blob/main/4.%20Dynamic%202%20wing%20interaction%202D.md
 
-<h2>Aviation Photography Analysis</h2>
+<h2>5.Aviation Photography Analysis</h2>
 
 - Collection of observations on aircraft systems through aviation Photography
 - https://github.com/Kelvin-John/Kelvin-John.github.io/blob/main/5.%20Aviation%20Photography.md
