@@ -1,8 +1,7 @@
 <h1>Kelvin John Samson<br>
 Project Portfolio</h1>
 
-
-- !! ALL PROJECTS HAVE BEEN DONE USING LICENSED SOFTWARE !!
+!! ALL PROJECTS HAVE BEEN DONE USING LICENSED SOFTWARE !!
 <h2>1.Transonic Stall Simulation</h2> 
 
 
