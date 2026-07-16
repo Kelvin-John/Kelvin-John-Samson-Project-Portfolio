@@ -1,8 +1,10 @@
 <h1>Kelvin John Samson<br>
 Project Portfolio</h1>
+
+
+- !! ALL PROJECTS HAVE BEEN DONE USING LICENSED SOFTWARE !!
 <h2>1.Transonic Stall Simulation</h2> 
 
--!! ALL PROJECTS HAVE BEEN DONE USING LICENSED SOFTWARE !!
 
 - 2D IDDES Transonic stall of NACA 64A010 using ANSYS FLUENT. <br>
 
